@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-    <label>주민등록번호</label>
+    <label>주민등록번호 </label>
     <input
         type="text"
         placeholder="‘-‘없이 주민등록번호를 입력해주세요."
